@@ -3,6 +3,7 @@ Assignment 7 for HHA 507
 
 # websites
 https://www.billboard.com/charts/hot-100/
+
 https://www.porsche.com/usa/modelstart/all/?modelrange=taycan
 
 # packages & steps
